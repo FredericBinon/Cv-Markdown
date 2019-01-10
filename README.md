@@ -4,7 +4,7 @@ Cv en utilisant uniquement le language Markdown
 
 ------------------------------------------------------------------------------
 
-![Binon Frédéric](Profil.jpg =300x400 "Binon Frédéric")
+![Binon Frédéric](Profil.jpg "Binon Frédéric"){:width="300px" height="400px"}
 
 # BINON Frédéric
 
